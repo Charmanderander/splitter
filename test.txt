@@ -1,0 +1,9 @@
+col1	in	out
+test1	a	b
+test1	a	c
+test1	a	v
+test1	a	b
+test1	c	a
+test1	x	a
+test1	s	a
+test1	z	a
