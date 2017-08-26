@@ -2,7 +2,7 @@ import csv
 import os
 from collections import Counter, defaultdict
 
-directory = "C:\Users\Chan Family\Desktop\merger"
+directory = "C:\PATH\TO\FILES\HERE"
 
 entries = []
 people = []
